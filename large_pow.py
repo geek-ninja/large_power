@@ -1,4 +1,5 @@
 # To find large power with short time complexicity.
+# Uncomment the last lines to use dynamic approach.
  
 MOD = 1000000007; 
 
